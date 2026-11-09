@@ -2,7 +2,7 @@
   "version": "2.1.0",
   "release_date": "2026-11-10",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_Installer.exe",
-  "sha256": "c14a0e5991b73b002378b2e4f38b2365e2a8c627f8ba8abac4e90bafaf34f72d",
+  "sha256": "6f916385efc1517977a305dacf722df5e664c3917428e63cd36d25956fb112ae",
   "mandatory": false,
   "changelog": "• Комплексный пакет MGU Store и системных патчей ID7/ID8\n• Полная поддержка аппаратного шифрования SSH GCM (без сбоев)\n• Автоматическое обновление приложения по воздуху (OTA) через GitHub Releases\n• Автономный режим в гараже (без зависаний при отсутствии сети)"
 }
