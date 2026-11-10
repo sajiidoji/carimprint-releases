@@ -2,7 +2,7 @@
   "version": "2.1.0",
   "release_date": "2026-11-10",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_Installer.exe",
-  "sha256": "adc7ea4c19ed3519209b7e12d435918d9ac186839fff3e50df31b5f92afb210b",
+  "sha256": "01de91c2ca217d271c4085e16270f27158efa9fe004aa4f5a2147daed7c35233",
   "mandatory": false,
-  "changelog": "• Комплексный пакет MGU Store и системных патчей ID7/ID8\n• Полная поддержка аппаратного шифрования SSH GCM (без сбоев)\n• Надежное автоматическое обновление через мульти-CDN зеркала (GitHub, jsDelivr, Fastly)\n• Автономный гаражный режим: бесперебойная работа при прямом подключении ENET без Интернета"
+  "changelog": "• Исправлен запуск приложения M xDrive (мгновенный рендер без ожидания TASU)\n• Добавлен интерфейс управления FrontCCU для шайбы iDrive\n• Надежное автоматическое обновление через мульти-CDN зеркала (GitHub, jsDelivr, Fastly)\n• Автономный гаражный режим: бесперебойная работа при прямом подключении ENET без Интернета"
 }
