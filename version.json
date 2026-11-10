@@ -1,8 +1,8 @@
 {
-  "version": "2.1.0",
-  "release_date": "2026-11-10",
+  "version": "2.1.1",
+  "release_date": "2026-11-11",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_Installer.exe",
-  "sha256": "01de91c2ca217d271c4085e16270f27158efa9fe004aa4f5a2147daed7c35233",
+  "sha256": "bd0b29cb438b251495453dcbf47cbe873fc4cad3026fd33dc7ea69e1a4181327",
   "mandatory": false,
-  "changelog": "• Исправлен запуск приложения M xDrive (мгновенный рендер без ожидания TASU)\n• Добавлен интерфейс управления FrontCCU для шайбы iDrive\n• Надежное автоматическое обновление через мульти-CDN зеркала (GitHub, jsDelivr, Fastly)\n• Автономный гаражный режим: бесперебойная работа при прямом подключении ENET без Интернета"
+  "changelog": "• M xDrive Control обновлен до v1.1.1: мгновенный старт интерфейса без ожидания шины TASU\n• Добавлен интерфейс управления FrontCCU для шайбы iDrive\n• Надежное автоматическое обновление через мульти-CDN зеркала (GitHub, jsDelivr, Fastly)\n• Автономный гаражный режим при прямом подключении ENET без Интернета"
 }
