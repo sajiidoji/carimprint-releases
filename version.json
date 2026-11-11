@@ -2,15 +2,10 @@
   "version": "2.1.3",
   "release_date": "2026-11-11",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_Installer.exe",
-  "sha256": "bd0b29cb438b251495453dcbf47cbe873fc4cad3026fd33dc7ea69e1a4181327",
+  "sha256": "2e2b537363a1486972bdc850d3901d63d652865c64ac6132a04c0a4d19f3fde2",
   "mandatory": false,
-  "changelog": "• M xDrive Control обновлен до v1.1.1: мгновенный старт интерфейса без ожидания шины TASU\n• Добавлен интерфейс управления FrontCCU для шайбы iDrive\n• Надежное автоматическое обновление через мульти-CDN зеркала (GitHub, jsDelivr, Fastly)\n• Автономный гаражный режим при прямом подключении ENET без Интернета",
+  "changelog": "• Интеграция базы CAFD (sajiidoji/carimprint-cafd, 156 версий HU_MGU) в функцию «Создать бэкап CAFD (MGU)»\n• Чтение и запись кодировок CAFD строго по алгоритму E-Sys через чистый UDS/DoIP (22 F1 01 + 22 30 00..30 16) без SSH\n• Автоматическое сохранение пары .ncd + .caf в папку C:\\CARIMPRINT_Suite\\cafd_backups\\<VIN>\n• M xDrive Control обновлен до v1.1.1: мгновенный старт интерфейса и поддержка шайбы iDrive (FrontCCU)",
   "installer_sha256": "2e2b537363a1486972bdc850d3901d63d652865c64ac6132a04c0a4d19f3fde2",
   "installer_size": 72563958,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.1.3/CARIMPRINT_Installer.exe",
-  "changelog_ru": [
-    "Чтение и запись кодировок CAFD (MGU) строго по алгоритму E-Sys через чистый UDS/DoIP (22 F1 01 + 22 30 00..30 16 / 2E 30 00..30 16) без SSH",
-    "Прямая подгрузка шаблонов .caf (00003e52 / 00003e53) из облачного репозитория sajiidoji/carimprint-cafd без обращения к C:\\Data\\psdzdata",
-    "Автоматическое сохранение пары .ncd + .caf в папку C:\\CARIMPRINT_Suite\\cafd_backups\\<VIN> и локальный кэш cafd_library"
-  ]
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.1.3/CARIMPRINT_Installer.exe"
 }
