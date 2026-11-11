@@ -1,11 +1,11 @@
 {
-  "version": "2.1.4",
+  "version": "2.1.5",
   "release_date": "2026-11-11",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_Installer.exe",
-  "sha256": "2e3ad5b19a5f31f77eabdf5d22abd6326ab84c20c9956b293201e46400305555",
+  "sha256": "369f806fa85692881016d1fc1c609830e0a0202635ed3eb94b11ed4c5596f214",
   "mandatory": false,
-  "changelog": "• Исправлена ошибка EROFS (read-only file system) при установке MGU Store (robertn_store v0.9.21): исключена повторная распаковка и дублирование бэкапа mgu-python (48 МБ) в /var/opt, перенос временных пакетов в RAM (/tmp)\n• Автоматическая очистка промежуточных snapshots mgu-deploy (/var/opt/mgu-deploy/backups/20*) и восстановление RW-режима /var/opt\n• Адаптация высоты окна и фиксация нижней панели опций для экранов ноутбуков 14 дюймов (125%–150% DPI)\n• Автономный бэкап и восстановление CAFD по алгоритму E-Sys через чистый UDS/DoIP (sajiidoji/carimprint-cafd)",
-  "installer_sha256": "2e3ad5b19a5f31f77eabdf5d22abd6326ab84c20c9956b293201e46400305555",
-  "installer_size": 72565416,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.1.4/CARIMPRINT_Installer.exe"
+  "changelog": "• Исправлен запуск M xDrive Control (v1.1.0) и всех приложений .mgu на экране ГУ: устранена ошибка очистки manifest.json (someipInterfaces) в mgu-app-install.sh и снятие хука 50-mgu-custom-apps.conf\n• Обновлены системные расширения Store Suite: mgu-deploy v0.8.11, mgu-updater v0.8.39, mgu-render v0.6.19, mgu-uplink v0.7.9, robertn_store v0.9.35\n• Обновлены системные расширения KOMBI / CarPlay: cluster-render v0.5.4, waze-on-cluster v0.9.10, robertn_waze_cluster v0.6.7\n• Защита от переполнения /var/opt (EROFS) при установке Store и адаптация окна для ноутбуков 14 дюймов",
+  "installer_sha256": "369f806fa85692881016d1fc1c609830e0a0202635ed3eb94b11ed4c5596f214",
+  "installer_size": 75863650,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.1.5/CARIMPRINT_Installer.exe"
 }
