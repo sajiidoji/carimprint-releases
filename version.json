@@ -1,11 +1,11 @@
 {
-  "version": "2.1.3",
+  "version": "2.1.4",
   "release_date": "2026-11-11",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_Installer.exe",
-  "sha256": "2e2b537363a1486972bdc850d3901d63d652865c64ac6132a04c0a4d19f3fde2",
+  "sha256": "2e3ad5b19a5f31f77eabdf5d22abd6326ab84c20c9956b293201e46400305555",
   "mandatory": false,
-  "changelog": "• Интеграция базы CAFD (sajiidoji/carimprint-cafd, 156 версий HU_MGU) в функцию «Создать бэкап CAFD (MGU)»\n• Чтение и запись кодировок CAFD строго по алгоритму E-Sys через чистый UDS/DoIP (22 F1 01 + 22 30 00..30 16) без SSH\n• Автоматическое сохранение пары .ncd + .caf в папку C:\\CARIMPRINT_Suite\\cafd_backups\\<VIN>\n• M xDrive Control обновлен до v1.1.1: мгновенный старт интерфейса и поддержка шайбы iDrive (FrontCCU)",
-  "installer_sha256": "2e2b537363a1486972bdc850d3901d63d652865c64ac6132a04c0a4d19f3fde2",
-  "installer_size": 72563958,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.1.3/CARIMPRINT_Installer.exe"
+  "changelog": "• Исправлена ошибка EROFS (read-only file system) при установке MGU Store (robertn_store v0.9.21): исключена повторная распаковка и дублирование бэкапа mgu-python (48 МБ) в /var/opt, перенос временных пакетов в RAM (/tmp)\n• Автоматическая очистка промежуточных snapshots mgu-deploy (/var/opt/mgu-deploy/backups/20*) и восстановление RW-режима /var/opt\n• Адаптация высоты окна и фиксация нижней панели опций для экранов ноутбуков 14 дюймов (125%–150% DPI)\n• Автономный бэкап и восстановление CAFD по алгоритму E-Sys через чистый UDS/DoIP (sajiidoji/carimprint-cafd)",
+  "installer_sha256": "2e3ad5b19a5f31f77eabdf5d22abd6326ab84c20c9956b293201e46400305555",
+  "installer_size": 72565416,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.1.4/CARIMPRINT_Installer.exe"
 }
