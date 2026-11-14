@@ -1,11 +1,11 @@
 {
-  "version": "2.1.6",
-  "release_date": "2026-11-11",
+  "version": "2.1.7",
+  "release_date": "2026-11-14",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_Installer.exe",
-  "sha256": "3ffd6415212da83b22b77f73c5da94ae39e9c039a4a2b61af4e7a70d38dd4b3c",
+  "sha256": "063cee0a4f6bcd566d57d001b3632090a68e86b0faaf30dc12fdacedaddab01d",
   "mandatory": false,
-  "changelog": "• Исправлена ошибка установки mgu-render@0.6.19.tgz (код -1 / OOM при сборке шаблона HmiMain3D): потоковая загрузка .tgz по одному и защита от нехватки ОЗУ в /tmp\n• Исключен захват виртуальных адаптеров Radmin VPN / Hamachi (26.x.x.x / 25.x.x.x) при поиске шлюза ENET (UDP 6811)\n• Исправлен запуск M xDrive Control (v1.1.0) и всех приложений .mgu на экране ГУ\n• Обновлены пакеты Store и KOMBI (mgu-deploy 0.8.11, mgu-updater 0.8.39, robertn_store 0.9.35, cluster-render 0.5.4, waze-on-cluster 0.9.10, robertn_waze_cluster 0.6.7)",
-  "installer_sha256": "3ffd6415212da83b22b77f73c5da94ae39e9c039a4a2b61af4e7a70d38dd4b3c",
-  "installer_size": 75865583,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.1.6/CARIMPRINT_Installer.exe"
+  "changelog": "• Исправлено определение и отображение фактического VIN автомобиля в окне Root SSH-доступа (в том числе при нажатии Status) — принудительное чтение VIN по UDS 22 F1 90\n• В вывод команды Статус Debug / SSH добавлена строка с фактическим VIN автомобиля (Vehicle VIN (actual))\n• Исключена перезапись поля VIN автомобиля старым привязанным VIN после выполнения команд SSH в режиме PRO Multi-VIN",
+  "installer_sha256": "063cee0a4f6bcd566d57d001b3632090a68e86b0faaf30dc12fdacedaddab01d",
+  "installer_size": 75866658,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.1.7/CARIMPRINT_Installer.exe"
 }
