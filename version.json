@@ -1,11 +1,11 @@
 {
-  "version": "2.1.8",
+  "version": "2.1.9",
   "release_date": "2026-11-14",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_Installer.exe",
-  "sha256": "aacb37689dfa39fa4c3de9cbb4c402e9bcaf63b3eb29deb66a2b81957ce1d86c",
+  "sha256": "5fd0d8d62170d19d2735378a486eb2ce03474d5ab65bec41ee28ad8d92a21df1",
   "mandatory": false,
-  "changelog": "• Устранена ошибка код -1 при установке .mgu приложений через ENET Forwarder / VPN (отложенный перезапуск oapcontroller через REBOOT_NEXT=1 и авто-переподключение SSH)\n• Исправлено отображение текущего VIN (Текущий: ...) в режиме PRO Multi-VIN при повторном подключении к ранее добавленному автомобилю\n• Принудительное чтение фактического VIN по UDS 22 F1 90 в окне Root SSH и в команде Status",
-  "installer_sha256": "aacb37689dfa39fa4c3de9cbb4c402e9bcaf63b3eb29deb66a2b81957ce1d86c",
-  "installer_size": 75867769,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.1.8/CARIMPRINT_Installer.exe"
+  "changelog": "• Автоматический обход ошибки SSL CERTIFICATE_VERIFY_FAILED на ноутбуках с необновленными корневыми сертификатами Windows 10/11 (с сохранением строгой проверки SHA-256)\n• Гарантированная очистка временного окружения _MEIPASS2 / _PYI_* при перезапуске после OTA-обновления\n• Устранена ошибка код -1 при установке .mgu приложений через ENET Forwarder / VPN и улучшено чтение фактического VIN по UDS 22 F1 90",
+  "installer_sha256": "5fd0d8d62170d19d2735378a486eb2ce03474d5ab65bec41ee28ad8d92a21df1",
+  "installer_size": 75866783,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.1.9/CARIMPRINT_Installer.exe"
 }
