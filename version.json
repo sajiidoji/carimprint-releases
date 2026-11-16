@@ -1,11 +1,11 @@
 {
-  "version": "2.2.10",
-  "release_date": "2026-11-16",
+  "version": "2.2.11",
+  "release_date": "2026-11-17",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_Installer.exe",
-  "sha256": "d5ce23b0800221220544297ff9c3d1faf63c65200c29068d071f69939726389c",
+  "sha256": "7f53821e52e94a75b39bfe0a86e28ab2e1d01cb97c8acd6d2919b1a6bfdd846b",
   "mandatory": false,
-  "changelog": "• Журнал операций MGU растянут до самого низа окна\n• Перекомпонован интерфейс: журнал операций слева, контекстное меню опций установки, максимум высоты под список пакетов",
-  "installer_sha256": "d5ce23b0800221220544297ff9c3d1faf63c65200c29068d071f69939726389c",
-  "installer_size": 75871660,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.2.10/CARIMPRINT_Installer.exe"
+  "changelog": "• Добавлена опция «Remote Connection» для удалённого подключения через Radmin / ENET Forwarder (прямой TCP :6801 / SSH без UDP 6811)\n• Стандартное прямое подключение по OBD/ENET сохранено без изменений",
+  "installer_sha256": "7f53821e52e94a75b39bfe0a86e28ab2e1d01cb97c8acd6d2919b1a6bfdd846b",
+  "installer_size": 75874375,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.2.11/CARIMPRINT_Installer.exe"
 }
