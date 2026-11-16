@@ -1,11 +1,11 @@
 {
-  "version": "2.1.10",
+  "version": "2.2.9",
   "release_date": "2026-11-16",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_Installer.exe",
-  "sha256": "be170232290b6da44d573c08c708d96fb70963adb6bcbced1551806b1bc0969b",
+  "sha256": "8d23c60e15b7e39fdea03775468b727b45187ebd4e7b469eea29b21da6b18e34",
   "mandatory": false,
-  "changelog": "• Автоматическое масштабирование и адаптация интерфейса под любые разрешения экрана и DPI Windows\n• Перекомпонована рабочая область: блок «ПАКЕТЫ ДЛЯ УСТАНОВКИ» перенесён в правую колонку с гарантированной высотой\n• Добавлена вертикальная прокрутка левой панели (лицензия, подключение, опции) для компактных ноутбуков",
-  "installer_sha256": "be170232290b6da44d573c08c708d96fb70963adb6bcbced1551806b1bc0969b",
-  "installer_size": 75870360,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.1.10/CARIMPRINT_Installer.exe"
+  "changelog": "• Перекомпонован интерфейс: журнал операций MGU перенесён в левую колонку\n• Добавлено компактное контекстное меню опций установки (60 FPS, перехватчик шайбы iDrive, авто-перезагрузка ГУ)\n• Список пакетов для установки теперь занимает всю свободную высоту правой колонки",
+  "installer_sha256": "8d23c60e15b7e39fdea03775468b727b45187ebd4e7b469eea29b21da6b18e34",
+  "installer_size": 75870622,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.2.9/CARIMPRINT_Installer.exe"
 }
