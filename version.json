@@ -1,11 +1,11 @@
 {
-  "version": "2.2.12",
+  "version": "2.2.13",
   "release_date": "2026-11-17",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_Installer.exe",
-  "sha256": "33ce8cad18a5cc8acba7409036a217dc8e9befea9d74bd7931923a61f1cdfcde",
+  "sha256": "bc6efdd1d33d7fadc26c31ad6c90df7efdf406e769936d27f9f6d1d299cde169",
   "mandatory": false,
-  "changelog": "• Исправлена ошибка Remote Connection («auto:6801 getaddrinfo failed»): диалог открытия SSH теперь корректно использует указанный Radmin/Forwarder IP",
-  "installer_sha256": "33ce8cad18a5cc8acba7409036a217dc8e9befea9d74bd7931923a61f1cdfcde",
-  "installer_size": 75873738,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.2.12/CARIMPRINT_Installer.exe"
+  "changelog": "• Исправлен HSFZ-приём через Radmin / ENET Forwarder (mgu7/hsfz.py): таймер тишины больше не обрывает ответ на TYPE_ECHO до прихода реального ответа ЭБУ (VIN, SVK, IP MGU)",
+  "installer_sha256": "bc6efdd1d33d7fadc26c31ad6c90df7efdf406e769936d27f9f6d1d299cde169",
+  "installer_size": 75874576,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.2.13/CARIMPRINT_Installer.exe"
 }
