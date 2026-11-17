@@ -1,11 +1,11 @@
 {
-  "version": "2.2.11",
+  "version": "2.2.12",
   "release_date": "2026-11-17",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_Installer.exe",
-  "sha256": "7f53821e52e94a75b39bfe0a86e28ab2e1d01cb97c8acd6d2919b1a6bfdd846b",
+  "sha256": "33ce8cad18a5cc8acba7409036a217dc8e9befea9d74bd7931923a61f1cdfcde",
   "mandatory": false,
-  "changelog": "• Добавлена опция «Remote Connection» для удалённого подключения через Radmin / ENET Forwarder (прямой TCP :6801 / SSH без UDP 6811)\n• Стандартное прямое подключение по OBD/ENET сохранено без изменений",
-  "installer_sha256": "7f53821e52e94a75b39bfe0a86e28ab2e1d01cb97c8acd6d2919b1a6bfdd846b",
-  "installer_size": 75874375,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.2.11/CARIMPRINT_Installer.exe"
+  "changelog": "• Исправлена ошибка Remote Connection («auto:6801 getaddrinfo failed»): диалог открытия SSH теперь корректно использует указанный Radmin/Forwarder IP",
+  "installer_sha256": "33ce8cad18a5cc8acba7409036a217dc8e9befea9d74bd7931923a61f1cdfcde",
+  "installer_size": 75873738,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.2.12/CARIMPRINT_Installer.exe"
 }
