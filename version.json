@@ -1,11 +1,11 @@
 {
-  "version": "2.2.14",
-  "release_date": "2026-11-17",
+  "version": "2.2.15",
+  "release_date": "2026-11-21",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_Installer.exe",
-  "sha256": "5e36341ebd9f5db63bc7096d713af1e5a37a00d7d8587f967be5c4eb535f2a88",
+  "sha256": "ad4302dd187added0e837bdfa578165b6932452d2fab96dcacca6ab7c59333bc",
   "mandatory": false,
-  "changelog": "• Увеличен таймаут передачи крупных файлов (включая mgu-python@1.0.2.tgz 14.4 МБ) до 1200 секунд в режиме Remote Connection / для файлов > 4 МБ\n• Добавлено корректное закрытие потока записи SSH (shutdown_write) при загрузке пакетов",
-  "installer_sha256": "5e36341ebd9f5db63bc7096d713af1e5a37a00d7d8587f967be5c4eb535f2a88",
-  "installer_size": 75872364,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.2.14/CARIMPRINT_Installer.exe"
+  "changelog": "• Добавлено приложение M xDrive V8 Control [BETA] (m_xdrive_v8@1.0.0.mgu) в пакет платных приложений PRO (2WD/4WD для N63/S63 с блокировкой DSC и 400 мс Watchdog муфты)",
+  "installer_sha256": "ad4302dd187added0e837bdfa578165b6932452d2fab96dcacca6ab7c59333bc",
+  "installer_size": 88232740,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.2.15/CARIMPRINT_Installer.exe"
 }
