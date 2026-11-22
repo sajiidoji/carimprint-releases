@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_NBT_Suite_Installer.exe",
-  "sha256": "8ba3f5b3a916f3ed52e9ac4d3c01cc1095cf6b6d54820bf19dba9f76d9d422e7",
+  "sha256": "779ecc6b6000d06762d88dce5e1d47fd255f271712a8ade8b411d23b245a51e0",
   "mandatory": false,
   "changelog": "Коммерческий релиз CARIMPRINT NBT EVO Suite PRO (привязка к ПК, PRO-лицензия, OTA, 8.8\" и 10.25\" CarPlay).",
   "release_date": "2026-11-22",
-  "installer_sha256": "8ba3f5b3a916f3ed52e9ac4d3c01cc1095cf6b6d54820bf19dba9f76d9d422e7",
-  "installer_size": 20274074,
+  "installer_sha256": "779ecc6b6000d06762d88dce5e1d47fd255f271712a8ade8b411d23b245a51e0",
+  "installer_size": 20275405,
   "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.0/CARIMPRINT_NBT_Suite_Installer.exe"
 }
