@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.1/CARIMPRINT_NBT_Suite_Installer.exe",
-  "sha256": "692ee588c2279ee2c257dbfacb433e1d0ab57ced8b067d65501af2a68f38fb38",
+  "version": "1.0.2",
+  "url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.2/CARIMPRINT_NBT_Suite_Installer.exe",
+  "sha256": "c7fcc3d1948a93e3e819181c229ddda03087d30cb7fb4396c13cc329d503f3a4",
   "mandatory": false,
-  "changelog": "v1.0.1: Автодетект ZGW через HSFZ UDP 6811, раздельный автодетект SSH/UDS, новая иконка CARIMPRINT ID5/ID6, токены CarPlay (5 VIN).",
+  "changelog": "v1.0.2: Обновлён CarPlayMenu до v1.1.0 (автодетект MOST/KOMBI, boot hook в /bin/start_screen.sh, совместная работа с NbtAad).",
   "release_date": "2026-11-22",
-  "installer_sha256": "692ee588c2279ee2c257dbfacb433e1d0ab57ced8b067d65501af2a68f38fb38",
-  "installer_size": 20332458,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.1/CARIMPRINT_NBT_Suite_Installer.exe"
+  "installer_sha256": "c7fcc3d1948a93e3e819181c229ddda03087d30cb7fb4396c13cc329d503f3a4",
+  "installer_size": 20432070,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.2/CARIMPRINT_NBT_Suite_Installer.exe"
 }
