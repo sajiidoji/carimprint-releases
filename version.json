@@ -1,11 +1,11 @@
 {
-  "version": "2.2.15",
-  "release_date": "2026-11-21",
+  "version": "2.2.16",
+  "release_date": "2026-11-22",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_Installer.exe",
-  "sha256": "ad4302dd187added0e837bdfa578165b6932452d2fab96dcacca6ab7c59333bc",
+  "sha256": "4b9d56da2144936018ea5b051ff3a4c221f94bea6a8fc642dcb12ace7fcfc8e9",
   "mandatory": false,
-  "changelog": "• Добавлено приложение M xDrive V8 Control [BETA] (m_xdrive_v8@1.0.0.mgu) в пакет платных приложений PRO (2WD/4WD для N63/S63 с блокировкой DSC и 400 мс Watchdog муфты)",
-  "installer_sha256": "ad4302dd187added0e837bdfa578165b6932452d2fab96dcacca6ab7c59333bc",
-  "installer_size": 88232740,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.2.15/CARIMPRINT_Installer.exe"
+  "changelog": "• Сегментированная передача файлов по 512 КБ с авто-докачкой (cat >>) и контролем размера (stat -c %s) в режиме Remote Connection (Radmin VPN + BMW ENET Forwarding Software)\n• Добавлено приложение M xDrive V8 Control [BETA] (m_xdrive_v8@1.0.0.mgu) в пакет PRO",
+  "installer_sha256": "4b9d56da2144936018ea5b051ff3a4c221f94bea6a8fc642dcb12ace7fcfc8e9",
+  "installer_size": 88232156,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.2.16/CARIMPRINT_Installer.exe"
 }
