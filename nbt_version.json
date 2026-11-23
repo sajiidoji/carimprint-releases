@@ -1,11 +1,11 @@
 {
-  "version": "1.0.4",
-  "url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.4/CARIMPRINT_NBT_Suite_Installer.exe",
-  "sha256": "192bd06d9381f8e575a842a8cbffde54ae8ca89386260a20243832e10ac0e510",
+  "version": "1.0.5",
+  "url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.5/CARIMPRINT_NBT_Suite_Installer.exe",
+  "sha256": "7f74c000e9b78ca648a487e929abe47893f1d1309c2a2c6506af1f94b2050e73",
   "mandatory": false,
-  "changelog": "v1.0.4: Ожидание восстановления UDS после 31 01 100E (006.xxx), блок SWDL TransferData 2048 B.",
+  "changelog": "v1.0.5: Исправлен шлюз HSFZ (160.48.199.97 / 160.48.199.186) в DtcScanner и xDrive Control.",
   "release_date": "2026-11-22",
-  "installer_sha256": "192bd06d9381f8e575a842a8cbffde54ae8ca89386260a20243832e10ac0e510",
-  "installer_size": 20432659,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.4/CARIMPRINT_NBT_Suite_Installer.exe"
+  "installer_sha256": "7f74c000e9b78ca648a487e929abe47893f1d1309c2a2c6506af1f94b2050e73",
+  "installer_size": 20433957,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.5/CARIMPRINT_NBT_Suite_Installer.exe"
 }
