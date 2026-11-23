@@ -1,11 +1,11 @@
 {
-  "version": "1.0.5",
-  "url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.5/CARIMPRINT_NBT_Suite_Installer.exe",
-  "sha256": "7f74c000e9b78ca648a487e929abe47893f1d1309c2a2c6506af1f94b2050e73",
+  "version": "1.0.6",
+  "url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.6/CARIMPRINT_NBT_Suite_Installer.exe",
+  "sha256": "f21e72434272ec7436c83126e4f1b969a674990a699975b34d4f85d58bad533f",
   "mandatory": false,
-  "changelog": "v1.0.5: Исправлен шлюз HSFZ (160.48.199.97 / 160.48.199.186) в DtcScanner и xDrive Control.",
+  "changelog": "v1.0.6: Убрано 75-сек зависание connect() в DtcScanner и xDrive, сборка с 5-сегментным QNX ELF.",
   "release_date": "2026-11-22",
-  "installer_sha256": "7f74c000e9b78ca648a487e929abe47893f1d1309c2a2c6506af1f94b2050e73",
-  "installer_size": 20433957,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.5/CARIMPRINT_NBT_Suite_Installer.exe"
+  "installer_sha256": "f21e72434272ec7436c83126e4f1b969a674990a699975b34d4f85d58bad533f",
+  "installer_size": 20433209,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.6/CARIMPRINT_NBT_Suite_Installer.exe"
 }
