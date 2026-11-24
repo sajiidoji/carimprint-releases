@@ -1,11 +1,11 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_NBT_Suite_Installer.exe",
-  "sha256": "c5cd7a769796828066c372c50343f8e009597ed2acf20b9ef3b09d5380fb4d5a",
+  "sha256": "6f3f2fa55337aa048427a579b70d6456981dad5068d602a819608c9c43ca489a",
   "mandatory": false,
-  "changelog": "Fix ID6 xDrive RHMI reboot loop (remove RaBoolModel ImageID call, unique Etch ID 220, compact <6.5KB PNGs, persistent boot guard)",
+  "changelog": "Restore 100% original uncompressed 3D drivetrain renders for xDrive via direct bmw::Image stream + <21KB xDrive_ALL_Images.zip",
   "release_date": "2026-11-24",
-  "installer_sha256": "c5cd7a769796828066c372c50343f8e009597ed2acf20b9ef3b09d5380fb4d5a",
-  "installer_size": 20169517,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.8/CARIMPRINT_NBT_Suite_Installer.exe"
+  "installer_sha256": "6f3f2fa55337aa048427a579b70d6456981dad5068d602a819608c9c43ca489a",
+  "installer_size": 20434915,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.9/CARIMPRINT_NBT_Suite_Installer.exe"
 }
