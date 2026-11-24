@@ -1,11 +1,11 @@
 {
-  "version": "1.0.11",
+  "version": "1.0.12",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_NBT_Suite_Installer.exe",
-  "sha256": "dbe2fadeef97874681c61b3dade08edc6dd5bbb3f18347eca23c0661f75835b7",
+  "sha256": "476c64bb2712fdc8d1f99134c6222da2a2301eecd3f6b475887da5f20d11f00c",
   "mandatory": false,
-  "changelog": "Fix CarPlay HUD/KOMBI route-guidance (stage mm-ipod wrapper + hud_guidance switch + librghook-both + rw/Plugins mirror) and Android Auto live pfctl TCP 5277 activation",
+  "changelog": "Integrate carplay-6wa (zelnkup/bmw-carplay-cluster-navigation: hud6wa_probe rg + librghook.so + mm-ipod-wrapper.sh) for F-series 6WA/HUD CarPlay lane & turn navigation",
   "release_date": "2026-11-25",
-  "installer_sha256": "dbe2fadeef97874681c61b3dade08edc6dd5bbb3f18347eca23c0661f75835b7",
-  "installer_size": 20445283,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.11/CARIMPRINT_NBT_Suite_Installer.exe"
+  "installer_sha256": "476c64bb2712fdc8d1f99134c6222da2a2301eecd3f6b475887da5f20d11f00c",
+  "installer_size": 20498159,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.12/CARIMPRINT_NBT_Suite_Installer.exe"
 }
