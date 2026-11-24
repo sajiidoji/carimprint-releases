@@ -1,11 +1,11 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_NBT_Suite_Installer.exe",
-  "sha256": "26c7798a8bb863b647f2295e1290083a7e243156ac029db6c24a1febb0cf6071",
+  "sha256": "c5cd7a769796828066c372c50343f8e009597ed2acf20b9ef3b09d5380fb4d5a",
   "mandatory": false,
-  "changelog": "PRO 1-VIN to PRO Multi-VIN in-app upgrade dialog via header badge",
+  "changelog": "Fix ID6 xDrive RHMI reboot loop (remove RaBoolModel ImageID call, unique Etch ID 220, compact <6.5KB PNGs, persistent boot guard)",
   "release_date": "2026-11-24",
-  "installer_sha256": "26c7798a8bb863b647f2295e1290083a7e243156ac029db6c24a1febb0cf6071",
-  "installer_size": 20433405,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.7/CARIMPRINT_NBT_Suite_Installer.exe"
+  "installer_sha256": "c5cd7a769796828066c372c50343f8e009597ed2acf20b9ef3b09d5380fb4d5a",
+  "installer_size": 20169517,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.8/CARIMPRINT_NBT_Suite_Installer.exe"
 }
