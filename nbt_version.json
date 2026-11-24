@@ -1,11 +1,11 @@
 {
-  "version": "1.0.6",
-  "url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.6/CARIMPRINT_NBT_Suite_Installer.exe",
-  "sha256": "f21e72434272ec7436c83126e4f1b969a674990a699975b34d4f85d58bad533f",
+  "version": "1.0.7",
+  "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_NBT_Suite_Installer.exe",
+  "sha256": "26c7798a8bb863b647f2295e1290083a7e243156ac029db6c24a1febb0cf6071",
   "mandatory": false,
-  "changelog": "v1.0.6: Убрано 75-сек зависание connect() в DtcScanner и xDrive, сборка с 5-сегментным QNX ELF.",
-  "release_date": "2026-11-22",
-  "installer_sha256": "f21e72434272ec7436c83126e4f1b969a674990a699975b34d4f85d58bad533f",
-  "installer_size": 20433209,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.6/CARIMPRINT_NBT_Suite_Installer.exe"
+  "changelog": "PRO 1-VIN to PRO Multi-VIN in-app upgrade dialog via header badge",
+  "release_date": "2026-11-24",
+  "installer_sha256": "26c7798a8bb863b647f2295e1290083a7e243156ac029db6c24a1febb0cf6071",
+  "installer_size": 20433405,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.7/CARIMPRINT_NBT_Suite_Installer.exe"
 }
