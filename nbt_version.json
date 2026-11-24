@@ -1,11 +1,11 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_NBT_Suite_Installer.exe",
-  "sha256": "a727765f8e3484531de6e2b64ed9faaeda9f9e3573120feabe41e8e9a7d7d284",
+  "sha256": "dbe2fadeef97874681c61b3dade08edc6dd5bbb3f18347eca23c0661f75835b7",
   "mandatory": false,
-  "changelog": "Transparent RGBA 3D drivetrain badges for xDrive (badge_rwd.png, badge_unk.png, badge_awd.png) without rectangular background box",
+  "changelog": "Fix CarPlay HUD/KOMBI route-guidance (stage mm-ipod wrapper + hud_guidance switch + librghook-both + rw/Plugins mirror) and Android Auto live pfctl TCP 5277 activation",
   "release_date": "2026-11-25",
-  "installer_sha256": "a727765f8e3484531de6e2b64ed9faaeda9f9e3573120feabe41e8e9a7d7d284",
-  "installer_size": 20442644,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.10/CARIMPRINT_NBT_Suite_Installer.exe"
+  "installer_sha256": "dbe2fadeef97874681c61b3dade08edc6dd5bbb3f18347eca23c0661f75835b7",
+  "installer_size": 20445283,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.11/CARIMPRINT_NBT_Suite_Installer.exe"
 }
