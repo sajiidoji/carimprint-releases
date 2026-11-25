@@ -1,11 +1,11 @@
 {
-  "version": "1.0.13",
+  "version": "1.0.14",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_NBT_Suite_Installer.exe",
-  "sha256": "56ed62657d24b0b139720b8ff9d65dbd793c3a9312af5e0adf553b6aaa3b2ce8",
+  "sha256": "bc6fe820e77a01a2989eecd18c6f4e69d94a292db771cfa98c01006f7caf3dac",
   "mandatory": false,
-  "changelog": "Add RU/EN UI language switcher (nbt_i18n) across main installer and activation dialogs",
+  "changelog": "Fix BoostDeck telemetry collector deployment to /var/opt/hmi/data/ID5/Plugins/BoostDeck/",
   "release_date": "2026-11-25",
-  "installer_sha256": "56ed62657d24b0b139720b8ff9d65dbd793c3a9312af5e0adf553b6aaa3b2ce8",
-  "installer_size": 20508229,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.13/CARIMPRINT_NBT_Suite_Installer.exe"
+  "installer_sha256": "bc6fe820e77a01a2989eecd18c6f4e69d94a292db771cfa98c01006f7caf3dac",
+  "installer_size": 20505838,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.14/CARIMPRINT_NBT_Suite_Installer.exe"
 }
