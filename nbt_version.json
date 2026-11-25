@@ -1,11 +1,11 @@
 {
-  "version": "1.0.17",
+  "version": "1.0.18",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_NBT_Suite_Installer.exe",
-  "sha256": "e74c3334716d2248de36d293b8e3ffed7db3ee18d215fb83f297874ccd0dd60a",
+  "sha256": "e622cd06c50d39f149496c8bd4b94d2381ea530bf01367fa3ec8c06edb490b80",
   "mandatory": false,
-  "changelog": "Add 169.254.199.119 (NBT EVO hu-omap/OPT_DEBUG SSH IP) to auto-detect and SSH connect fallback",
+  "changelog": "Fix QNX shell dirname missing error during BoostDeck collector & CarPlayMenu ID5 deployment",
   "release_date": "2026-11-25",
-  "installer_sha256": "e74c3334716d2248de36d293b8e3ffed7db3ee18d215fb83f297874ccd0dd60a",
-  "installer_size": 20511955,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.17/CARIMPRINT_NBT_Suite_Installer.exe"
+  "installer_sha256": "e622cd06c50d39f149496c8bd4b94d2381ea530bf01367fa3ec8c06edb490b80",
+  "installer_size": 20512173,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.18/CARIMPRINT_NBT_Suite_Installer.exe"
 }
