@@ -1,11 +1,11 @@
 {
-  "version": "2.2.17",
-  "release_date": "2026-11-22",
-  "url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.2.17/CARIMPRINT_Installer.exe",
-  "sha256": "0a019abbae577d8e1b69b97748631f7b2157e702c7a92aa76c9270d4c0a06f85",
+  "version": "2.2.18",
+  "release_date": "2026-11-25",
+  "url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.2.18/CARIMPRINT_Installer.exe",
+  "sha256": "b1e5770e8a9cdba6eada3813cfa59302f9651fa59e8c97637254570eaf00538b",
   "mandatory": false,
-  "changelog": "• Обновлен ярлык и иконка приложения (CAR IMPRINT ID7/ID8)\n• Сегментированная передача файлов по 512 КБ с авто-докачкой для Remote Connection",
-  "installer_sha256": "0a019abbae577d8e1b69b97748631f7b2157e702c7a92aa76c9270d4c0a06f85",
-  "installer_size": 88367820,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.2.17/CARIMPRINT_Installer.exe"
+  "changelog": "• Добавлено переключение языка интерфейса (RU / EN) в правом верхнем углу окна с сохранением выбора\n• Переведены все панели, опции, статусы и диалоги активации / SSH / OTA",
+  "installer_sha256": "b1e5770e8a9cdba6eada3813cfa59302f9651fa59e8c97637254570eaf00538b",
+  "installer_size": 88382477,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/v2.2.18/CARIMPRINT_Installer.exe"
 }
