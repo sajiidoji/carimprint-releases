@@ -1,11 +1,11 @@
 {
-  "version": "1.0.19",
+  "version": "1.0.20",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_NBT_Suite_Installer.exe",
-  "sha256": "38fec6f3938127d8c8db82d0a8cd4033af3f4282f916abbbafa997054d3182ec",
+  "sha256": "f268c0f24bab6f5d2b330561b969b8d991581acddee066dfa4cf52fbb178c4c2",
   "mandatory": false,
-  "changelog": "Fix xDrive & DtcScanner RTLD_DEFAULT socket/pthread lookup + persistent trace logs + BoostDeck diag",
+  "changelog": "Fix CarPlay FSC blobB anchor verification via UDS 0x0F1F + direct UDS FSC store/check + accurate identify_hu FSC status",
   "release_date": "2026-11-25",
-  "installer_sha256": "38fec6f3938127d8c8db82d0a8cd4033af3f4282f916abbbafa997054d3182ec",
-  "installer_size": 20512857,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.19/CARIMPRINT_NBT_Suite_Installer.exe"
+  "installer_sha256": "f268c0f24bab6f5d2b330561b969b8d991581acddee066dfa4cf52fbb178c4c2",
+  "installer_size": 20515496,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.20/CARIMPRINT_NBT_Suite_Installer.exe"
 }
