@@ -1,11 +1,11 @@
 {
-  "version": "1.0.14",
+  "version": "1.0.15",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_NBT_Suite_Installer.exe",
-  "sha256": "bc6fe820e77a01a2989eecd18c6f4e69d94a292db771cfa98c01006f7caf3dac",
+  "sha256": "41507b4da33106046ac0c07935b1dea66e7fdffe8756e0e2b1d3dbe6bb62a4aa",
   "mandatory": false,
-  "changelog": "Fix BoostDeck telemetry collector deployment to /var/opt/hmi/data/ID5/Plugins/BoostDeck/",
+  "changelog": "Fix G30/ID6 SSH unlock (wait for HSFZ recovery & 10 03 ExtendedSession after Routine 0x100E)",
   "release_date": "2026-11-25",
-  "installer_sha256": "bc6fe820e77a01a2989eecd18c6f4e69d94a292db771cfa98c01006f7caf3dac",
-  "installer_size": 20505838,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.14/CARIMPRINT_NBT_Suite_Installer.exe"
+  "installer_sha256": "41507b4da33106046ac0c07935b1dea66e7fdffe8756e0e2b1d3dbe6bb62a4aa",
+  "installer_size": 20508839,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.15/CARIMPRINT_NBT_Suite_Installer.exe"
 }
