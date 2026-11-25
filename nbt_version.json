@@ -1,11 +1,11 @@
 {
-  "version": "1.0.22",
+  "version": "1.0.23",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_NBT_Suite_Installer.exe",
-  "sha256": "44636cdaf4bbf47f6880c2183099162acd59919f599af40deede9aaef2c75fe9",
+  "sha256": "cb109e8f3a65f1788df2e1e2a1d92af8aa353cd54dfe1f7e8080907968087bd7",
   "mandatory": false,
-  "changelog": "Use ExtendedSession 0x03 + L3 SecurityAccess (0x01/0x02) with 0x42 fallback for UDS 0x0F1F RCO_STORE",
+  "changelog": "Probe SWT SecurityAccess levels in 0x42 and discover HU SWT persistence paths",
   "release_date": "2026-11-25",
-  "installer_sha256": "44636cdaf4bbf47f6880c2183099162acd59919f599af40deede9aaef2c75fe9",
-  "installer_size": 20516821,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.22/CARIMPRINT_NBT_Suite_Installer.exe"
+  "installer_sha256": "cb109e8f3a65f1788df2e1e2a1d92af8aa353cd54dfe1f7e8080907968087bd7",
+  "installer_size": 20515364,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.23/CARIMPRINT_NBT_Suite_Installer.exe"
 }
