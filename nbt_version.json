@@ -1,11 +1,11 @@
 {
-  "version": "1.0.24",
+  "version": "1.0.25",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_NBT_Suite_Installer.exe",
-  "sha256": "1333a5917ee19235a0e34a8259205a4655a5dd1ccc4a36b4c4aef00da2f87cc7",
+  "sha256": "876c1bd35d51d0c1224b46ed43e056d3ca04a883d41b618f3d1f5b49e0507824",
   "mandatory": false,
-  "changelog": "Read and patch /net/hu-omap/var/opt/sys/persistence/early/pers_NBTCarHUSwt directly with uidx preservation for CarPlay FSC activation",
+  "changelog": "DtcScanner & xDrive: RU/EN language switcher, CAR IMPRINT SCANNER artwork, safe DTC clear without DSC 10 03 fault, and CarPlay 10.25 remount fix",
   "release_date": "2026-11-26",
-  "installer_sha256": "1333a5917ee19235a0e34a8259205a4655a5dd1ccc4a36b4c4aef00da2f87cc7",
-  "installer_size": 20518535,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.24/CARIMPRINT_NBT_Suite_Installer.exe"
+  "installer_sha256": "876c1bd35d51d0c1224b46ed43e056d3ca04a883d41b618f3d1f5b49e0507824",
+  "installer_size": 20574434,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.25/CARIMPRINT_NBT_Suite_Installer.exe"
 }
