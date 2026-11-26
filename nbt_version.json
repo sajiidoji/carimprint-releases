@@ -1,11 +1,11 @@
 {
-  "version": "1.0.29",
+  "version": "1.0.30",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_NBT_Suite_Installer.exe",
-  "sha256": "8787b98a56273fdc6d0dbf278c13a0d7ac21b97bcdd624ad0ab8f9fe70c54276",
+  "sha256": "86254383612063077505bd0983bce08022cd81f291f530f803ac9168ea46d860",
   "mandatory": false,
-  "changelog": "Universal UDP 6811 ZGW gateway auto-discovery in DtcScanner and xDrive + --host auto in BoostDeck (works on any vehicle without hardcoded IP)",
-  "release_date": "2026-11-26",
-  "installer_sha256": "8787b98a56273fdc6d0dbf278c13a0d7ac21b97bcdd624ad0ab8f9fe70c54276",
-  "installer_size": 20574996,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.29/CARIMPRINT_NBT_Suite_Installer.exe"
+  "changelog": "Bilingual (RU/EN) DTC fault code descriptions across all 9 ECUs (DME, EGS, DSC, FEM/ZGW, HU_NBT2, EPS, ACSM, IHKA, KOMBI) + universal BMW Hex-DTC subsystem decoder",
+  "release_date": "2026-11-27",
+  "installer_sha256": "86254383612063077505bd0983bce08022cd81f291f530f803ac9168ea46d860",
+  "installer_size": 20585522,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.30/CARIMPRINT_NBT_Suite_Installer.exe"
 }
