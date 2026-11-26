@@ -1,11 +1,11 @@
 {
   "version": "1.0.26",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_NBT_Suite_Installer.exe",
-  "sha256": "876c1bd35d51d0c1224b46ed43e056d3ca04a883d41b618f3d1f5b49e0507824",
+  "sha256": "4d6f8977e7b594e661672b149320c3e9794caca399a0347295b79a270e6a9416",
   "mandatory": false,
   "changelog": "UTF-16 Cyrillic fix for DtcScanner and xDrive, original 64001.png menu icon restored, colored 4WD/2WD xDrive drivetrain renders",
   "release_date": "2026-11-26",
-  "installer_sha256": "876c1bd35d51d0c1224b46ed43e056d3ca04a883d41b618f3d1f5b49e0507824",
-  "installer_size": 20574434,
+  "installer_sha256": "4d6f8977e7b594e661672b149320c3e9794caca399a0347295b79a270e6a9416",
+  "installer_size": 20575524,
   "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.26/CARIMPRINT_NBT_Suite_Installer.exe"
 }
