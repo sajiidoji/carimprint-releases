@@ -1,11 +1,11 @@
 {
-  "version": "1.0.28",
+  "version": "1.0.29",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_NBT_Suite_Installer.exe",
-  "sha256": "3b4c4b97598b49e0d9ab288d931900a6d5f9b905f947dc75835ea775f7361d83",
+  "sha256": "8787b98a56273fdc6d0dbf278c13a0d7ac21b97bcdd624ad0ab8f9fe70c54276",
   "mandatory": false,
-  "changelog": "BoostDeck collector + ZGW gateway-ip.txt (169.254.37.61) auto-configuration",
+  "changelog": "Universal UDP 6811 ZGW gateway auto-discovery in DtcScanner and xDrive + --host auto in BoostDeck (works on any vehicle without hardcoded IP)",
   "release_date": "2026-11-26",
-  "installer_sha256": "3b4c4b97598b49e0d9ab288d931900a6d5f9b905f947dc75835ea775f7361d83",
-  "installer_size": 20575409,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.28/CARIMPRINT_NBT_Suite_Installer.exe"
+  "installer_sha256": "8787b98a56273fdc6d0dbf278c13a0d7ac21b97bcdd624ad0ab8f9fe70c54276",
+  "installer_size": 20574996,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.29/CARIMPRINT_NBT_Suite_Installer.exe"
 }
