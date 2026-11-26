@@ -1,11 +1,11 @@
 {
-  "version": "1.0.27",
+  "version": "1.0.28",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_NBT_Suite_Installer.exe",
-  "sha256": "97486159673f8d0a33ee7f92562ccad8e48767678caab282cb544b1ec4f12b6d",
+  "sha256": "3b4c4b97598b49e0d9ab288d931900a6d5f9b905f947dc75835ea775f7361d83",
   "mandatory": false,
-  "changelog": "Centered M_XDrive title, subtitle, and buttons layout symmetrically on ID5/ID6",
+  "changelog": "BoostDeck collector + ZGW gateway-ip.txt (169.254.37.61) auto-configuration",
   "release_date": "2026-11-26",
-  "installer_sha256": "97486159673f8d0a33ee7f92562ccad8e48767678caab282cb544b1ec4f12b6d",
-  "installer_size": 20575702,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.27/CARIMPRINT_NBT_Suite_Installer.exe"
+  "installer_sha256": "3b4c4b97598b49e0d9ab288d931900a6d5f9b905f947dc75835ea775f7361d83",
+  "installer_size": 20575409,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.0.28/CARIMPRINT_NBT_Suite_Installer.exe"
 }
