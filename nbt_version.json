@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_NBT_Suite_Installer.exe",
-  "sha256": "31a2334541bf6e231df1212cf6371a9578ca0e7d1cab1a2e7e041c9447062a7d",
+  "sha256": "f3a3810782fdb96ac9d2c36de1ca708864bf0f884b6689beeffaa4cf541f3085",
   "mandatory": false,
-  "changelog": "Moved Live Data (4-in-1) plugin to PRO subscription tier",
+  "changelog": "Live Data audit fixes: external 256-color png_leggero backgrounds, 4KB Images.zip (<6.6KB limit), 100% unique XML IDs",
   "release_date": "2026-11-28",
-  "installer_sha256": "31a2334541bf6e231df1212cf6371a9578ca0e7d1cab1a2e7e041c9447062a7d",
-  "installer_size": 20811656,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.1.1/CARIMPRINT_NBT_Suite_Installer.exe"
+  "installer_sha256": "f3a3810782fdb96ac9d2c36de1ca708864bf0f884b6689beeffaa4cf541f3085",
+  "installer_size": 20696305,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.1.2/CARIMPRINT_NBT_Suite_Installer.exe"
 }
