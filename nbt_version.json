@@ -1,11 +1,11 @@
 {
-  "version": "1.1.2",
+  "version": "1.1.3",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_NBT_Suite_Installer.exe",
-  "sha256": "f3a3810782fdb96ac9d2c36de1ca708864bf0f884b6689beeffaa4cf541f3085",
+  "sha256": "81812654b99be61cca861c088d7d8c65056f219931ba94394d96005f447f4461",
   "mandatory": false,
-  "changelog": "Live Data audit fixes: external 256-color png_leggero backgrounds, 4KB Images.zip (<6.6KB limit), 100% unique XML IDs",
+  "changelog": "v1.1.3: Единый чистый открытый интерфейс M_XDrive, DTC Scanner и Live Data в стиле BMW Sport (прозрачные 3D-рендеры привода без серого квадрата, затухающие разделители без громоздких рамок, срабатывание команд только по нажатию шайбы iDrive, переключение языка по кнопке OPTION).",
   "release_date": "2026-11-28",
-  "installer_sha256": "f3a3810782fdb96ac9d2c36de1ca708864bf0f884b6689beeffaa4cf541f3085",
-  "installer_size": 20696305,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.1.2/CARIMPRINT_NBT_Suite_Installer.exe"
+  "installer_sha256": "81812654b99be61cca861c088d7d8c65056f219931ba94394d96005f447f4461",
+  "installer_size": 20412128,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.1.3/CARIMPRINT_NBT_Suite_Installer.exe"
 }
