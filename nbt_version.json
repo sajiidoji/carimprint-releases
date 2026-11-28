@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "url": "https://github.com/sajiidoji/carimprint-releases/releases/latest/download/CARIMPRINT_NBT_Suite_Installer.exe",
-  "sha256": "0f7bd287cb5c6788da2eb9d76b82b06e2cf3dbc60916752056204ff70226b73a",
+  "sha256": "31a2334541bf6e231df1212cf6371a9578ca0e7d1cab1a2e7e041c9447062a7d",
   "mandatory": false,
-  "changelog": "Added Live Data 4-in-1 ConnectedDrive plugin (Burble & Valve Control, Service Manager with IBS + CBS Service Reset, Draggy 0-100/100-200 + USB CSV DataLogger, HUD Telemetry) with BMW Sport style icons",
+  "changelog": "Moved Live Data (4-in-1) plugin to PRO subscription tier",
   "release_date": "2026-11-28",
-  "installer_sha256": "0f7bd287cb5c6788da2eb9d76b82b06e2cf3dbc60916752056204ff70226b73a",
-  "installer_size": 20810275,
-  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.1.0/CARIMPRINT_NBT_Suite_Installer.exe"
+  "installer_sha256": "31a2334541bf6e231df1212cf6371a9578ca0e7d1cab1a2e7e041c9447062a7d",
+  "installer_size": 20811656,
+  "installer_url": "https://github.com/sajiidoji/carimprint-releases/releases/download/nbt-v1.1.1/CARIMPRINT_NBT_Suite_Installer.exe"
 }
